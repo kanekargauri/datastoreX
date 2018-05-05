@@ -1,7 +1,7 @@
 # datastorex - provide abstraction for data manipulation over multiple data stores
 
 #### supported datastore types are [“mysql”, “postgres”, “mariadb”, “sqlserver”, “oracle”, “mongodb”, “sqlite”]
-#### Operators (=, >, <, !=, >=, <=, between, in, not in)
+#### operators (=, >, <, !=, >=, <=, between, in, not in)
 
 
 #### to insert data in data store :
