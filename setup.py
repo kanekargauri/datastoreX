@@ -1,3 +1,6 @@
+"""
+setup for datasoreX
+"""
 from setuptools import setup
 
 setup(name='datastorex',
